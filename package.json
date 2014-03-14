@@ -1,0 +1,11 @@
+{
+  "name": "spec-baackup-reporter",
+  "version": "0.0.1",
+  "description": "This is a mocha reporter with spec output and can save data as json to your external server with mongo schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EragonJ",
+  "license": "MIT"
+}
