@@ -1,2 +1,4 @@
 node_modules
 *.swp
+config/db.production.json
+config/db.development.json
