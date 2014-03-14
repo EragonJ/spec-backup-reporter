@@ -1,5 +1,5 @@
 {
-  "name": "spec-baackup-reporter",
+  "name": "spec-backup-reporter",
   "version": "0.0.1",
   "description": "This is a mocha reporter with spec output and can save data as json to your external server with mongo schema",
   "main": "index.js",
